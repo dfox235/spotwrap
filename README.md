@@ -1,6 +1,6 @@
 # Projet tutoré
 
-Ben GAUDRY, Kevin BERTAUX, Daniel CAILLE, Wail BENSALEM
+Ben GAUDRY, Daniel CAILLE, Kevin BERTAUX, Wail BENSALEM
 
 ## Installation
 
